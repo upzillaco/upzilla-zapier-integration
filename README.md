@@ -1,2 +1,2 @@
-# upzilla-zappier-integration
-Upzillla Zappier integration
+# upzilla-zapier-integration
+Upzillla Zapier integration
